@@ -22,7 +22,7 @@ Direct Messaging:
 GUI
 Profile:
 	- Login
-		- Contacts
+	- Contacts
 	- Password
 	- Username
 Input/Output
@@ -34,6 +34,9 @@ Input/Output
 - team members that need to communicate
 - central server
 - software to connect to server
+- install in every system
+- simple TCP/ keep it socket base
+- file transfer
 - group chat
 - private chat
 - no additional security tools
