@@ -1,7 +1,7 @@
 CS 401 Communicaitons Project
 
 
-Memebers includes: 
+Members includes: 
 
 Haoxiang Hu
 Michee Costelo 
