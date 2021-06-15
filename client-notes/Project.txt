@@ -1,0 +1,44 @@
+CLIENT MEETING NOTES
+Communication
+
+Project Requirements:
+- text based 2 way comm at min
+	- group based comm
+	- 1 on 1
+- client server base
+	- client application
+	- clients connect over a network to server applicaiton
+- Publish comm protocol
+	- GreatChat Server
+	- GreatChat Client
+	- Requirements for how clients can communicate with server
+	- Publish protocol
+- user needs user and password
+- GUI required
+- 5-10 people per group message
+
+Direct Messaging:
+
+GUI
+Profile:
+	- Login
+		- Contacts
+	- Password
+	- Username
+Input/Output
+
+
+-- Emoji
+-- Personalization
+
+- team members that need to communicate
+- central server
+- software to connect to server
+- group chat
+- private chat
+- no additional security tools
+- administration tools
+- as long as user account is active save messages
+	- deletion deletes all user data
+		- only deletes logs one way
+		- preserve user names in chat logs
